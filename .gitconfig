@@ -1,0 +1,10 @@
+[core]
+	excludesfile = /home/aga/.gitignore
+	editor = vim
+[user]
+	email = aga.j.denis@gmail.com
+	name = agadenis
+[push]
+	default = simple
+[alias]
+	gl = log --oneline --graph --decorate --all
